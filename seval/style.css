@@ -1,0 +1,154 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+#nav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+#navbarNavAltMarkup a{
+    margin-right: 10px;
+}
+
+#navbarNavAltMarkup :hover{
+    color: red;
+}
+#section p{
+    line-height: 1.7;
+    letter-spacing: 1px;
+    padding-top: 30px;
+}
+#section{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 3px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+#section button{
+    background-color: white;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: solid;
+    border-color: white;
+    margin-top: 20px;
+}
+#section button:hover{
+    background-color:black;
+    color: white;
+    border-width: 1px;
+}
+#sec2 img{
+    width: 95%;
+    height: 95%;
+    margin-left: 20px;
+    padding: 0 2rem;
+}
+#courses{
+    margin-top: 50px;
+    padding: 20px;
+}
+.card a{
+    text-decoration: none;
+}
+.card-group card{
+    margin: 10px;
+    border-color: black;
+}
+.card img{
+    width: 100%;
+    height: 100%;
+}
+.card-title{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: normal;
+}
+.card{
+    margin: 20px 15px;
+    background-color: #000875;
+    border-radius: 7px;
+    border-color: white;
+    border-style: solid;
+}
+.card a{
+    font-style: normal;
+}
+.card-body h3{
+    color: white;
+}
+.card:hover{
+    background-color: black;
+    border-color: black
+}
+.card h3:hover, .card p:hover{
+    color: lightblue;
+}
+.card-body p{
+    min-height: 190px;
+}
+.works{
+    margin: 50px;
+    background-color: white;
+    text-align: left;
+    font-family: sans-serif;
+    letter-spacing: normal;
+    border-color: gray;
+    border-style: solid;
+}
+.works h4{
+    padding: 10px;
+    color: black;
+    padding-left:15px ;
+    font-size: x-large;
+}
+.works p{
+    padding-top: 3px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    color:#000875;
+    margin-left: 15px;
+}
+.works svg{
+    margin: 30px 0 10px 15px;
+    
+}
+#partners h1{
+    color: black;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+#form label{
+    color: black;
+    margin: 10px;
+}
+#form{
+    justify-items: center;
+    margin-top: 40px;
+}
+option{
+    color: black;
+}
+#form-right p, h3{
+    color: black;
+    margin: 20px 20px 20px 40px;
+    padding-left: 20px;
+}
+#form-right svg{
+    margin-left: 60px;
+}
+.col-sm p{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+a p{
+    padding-top: 5px;
+}
+a svg{
+    padding-top: 5px;
+}
